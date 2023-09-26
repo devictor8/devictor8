@@ -5,7 +5,7 @@
  </h1>
 
 <p align="left">
-🧑🏻‍🎓I'm an Information Systems student at the University of Pernambuco (UPE).
+🧑🏻‍🎓I'm an Information Systems student at the <a href="https://upe.br">University of Pernambuco</a> (UPE).
   
 </p>
 
