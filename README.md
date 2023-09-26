@@ -41,12 +41,17 @@
   <img align="center" alt="Victor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   ##
-  ```python
-    def VictorSalgado():
-        pass
-  ´´´
-  
-  ##
+```kotlin
+object **SEU NOME** {
+ val name = "SEU NOME COMPLETO"
+ val acknowledgements = "ÁREA DE CONHECIMENTO"
+
+ val primarySkillset = "ALGUMAS HABILIDADES"
+ val languages = listOf("Java", "Python", "JavaScript", "Kotlin", "React")
+
+}
+```
+
  
 [![devictor8](https://github-readme-stats.vercel.app/api?username=devictor8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
