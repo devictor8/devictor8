@@ -1,6 +1,6 @@
 ## Olá! Eu sou Victor 
 - 🎓 Sou estudante do curso de Sistemas de informação na Universide de Pernambuco
-- 🌱 No momento estou aprofundando meu conhecimento em Python
+- 🌱 No momento estou estudando HTML e CSS
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Victor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
