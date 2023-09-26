@@ -19,3 +19,7 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
+
+[![devictor8](https://github-readme-stats.vercel.app/api?username=iuricode&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![devictor8](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
