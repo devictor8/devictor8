@@ -1,3 +1,4 @@
+
 name: Generate snake game
 
 on:
@@ -23,4 +24,5 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: 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
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  
