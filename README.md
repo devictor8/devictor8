@@ -56,5 +56,5 @@ class victorSalgado():
 [![devictor8](https://github-readme-stats.vercel.app/api?username=devictor8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![devictor8](https://github-readme-stats.vercel.app/api/top-langs/?username=devictor8&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![snake animation](https://github.com/devictor8/devictor8/blob/output/github-contribution-grid-snake2.svg)
+
  
