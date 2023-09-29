@@ -58,5 +58,5 @@ class victorSalgado():
 
 ##
 
-![snake animation](https://github.com/devictor8/devictor8/blob/output/github-contribution-grid-snake2.svg)
+
  
