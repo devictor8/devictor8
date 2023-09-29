@@ -4,6 +4,7 @@
  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40px" align="left">
  <h1 aling="center">Hello, my name is Victor!</h1> </p>
 </div>
+
 <p align="left">
 🧑🏻‍🎓I'm an Information Systems student at the <a href="https://upe.br">University of Pernambuco</a> (UPE).
   
@@ -28,7 +29,7 @@
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 </p>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Victor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="VIctor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -36,9 +37,8 @@
   <img align="center" alt="Victor-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Victor-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
+<br>
 
-
-  
 ```python
 class victorSalgado():
     def __init__():
