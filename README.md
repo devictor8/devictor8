@@ -1,9 +1,6 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
-
- <h1 align="left">
- Hello, my name is Victor!
- </h1>
-
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" min-width="600px" max-width="600px" width="500px" align="right">
+ 
+<h1 aling="center">Hello, my name is Victor!</h1> </p>
 <p align="left">
 🧑🏻‍🎓I'm an Information Systems student at the <a href="https://upe.br">University of Pernambuco</a> (UPE).
   
@@ -43,19 +40,19 @@
   <img align="center" alt="Victor-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 
- ##
+##
   
 ```python
 class victorSalgado():
     def __init__():
         name = 'Victor Salgado'
         age = 18
+        focus = 'Learn something new everyday'
 ```
-##
-
+ 
 ![Snake animation](https://github.com/devictor8/devictor8/blob/output/github-contribution-grid-snake-dark.svg)
 
-##
+<h1>My Status</h1>
 
 [![devictor8](https://github-readme-stats.vercel.app/api?username=devictor8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![devictor8](https://github-readme-stats.vercel.app/api/top-langs/?username=devictor8&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
