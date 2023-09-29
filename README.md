@@ -1,6 +1,9 @@
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" min-width="600px" max-width="600px" width="500px" align="right">
- 
-<h1 aling="center">Hello, my name is Victor!</h1> </p>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" min-width="600px" max-width="600px" width="450px" align="right">
+
+<div style="display: inline_block">
+ <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40px" align="left">
+ <h1 aling="center">Hello, my name is Victor!</h1> </p>
+</div>
 <p align="left">
 🧑🏻‍🎓I'm an Information Systems student at the <a href="https://upe.br">University of Pernambuco</a> (UPE).
   
@@ -33,6 +36,8 @@
   <img align="center" alt="Victor-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Victor-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
+
+
   
 ```python
 class victorSalgado():
