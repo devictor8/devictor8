@@ -57,4 +57,5 @@ class victorSalgado():
 
 <h1>My Status</h1>
 
-
+[![devictor8](https://github-readme-stats.vercel.app/api?username=devictor8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![devictor8](https://github-readme-stats.vercel.app/api/top-langs/?username=devictor8&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
