@@ -1,20 +1,20 @@
 
 <div style="display: inline_block">
  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40px" align="left">
- <h1 aling="center">Hello, my name is Victor!</h1> </p>
+ <h1 aling="center">Olá, meu nome é Victor!</h1></p>
 </div>
 
 <p align="left">
-🧑🏻‍🎓I'm an Information Systems student at the <a href="https://upe.br">University of Pernambuco</a> (UPE).
+🧑🏻‍🎓Sou estudante de Sistemas de informção na <a href="https://upe.br">Universidade de Pernambuco</a> (UPE).
   
 </p>
 
 <p align="left">
-  💡 I'm currently learning more about web development
+  💡 No momento, estou estudando C e desenvolvimento Web
 </p>
 
 <p align="left">
-  💌 Contact me ⤵️
+  💌 Contatos⤵️
 </p>
 
 <p align="left">
