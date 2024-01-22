@@ -1,7 +1,7 @@
 
 <div style="display: inline_block">
  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40px" align="left">
- <h1 aling="center">Olá, meu nome é Victor!</h1></p>
+ <h1 aling="center">Olá, eu sou Victor!</h1>
 </div>
 
 <p>
