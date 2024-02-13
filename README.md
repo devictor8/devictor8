@@ -16,7 +16,7 @@
 
 <h1>Minhas Habilidades</h1>
 
- [![My Skills](https://skillicons.dev/icons?i=react,javascript,css,html,python,c,vscode,vercel&theme=dark)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=react,javascript,css,html,python,c,vscode,vercel,vite&theme=dark)](https://skillicons.dev)
 
 ##
 
