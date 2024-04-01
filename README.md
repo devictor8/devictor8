@@ -18,12 +18,4 @@
    [![My Skills](https://skillicons.dev/icons?i=javascript,py,c,java,react,html,css,tailwind,nodejs,express,prisma,postgres&perline=6&theme=dark)](https://skillicons.dev) 
 </div>
 
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/devictor8/devictor8/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/devictor8/devictor8/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/devictor8/devictor8/blob/output/github-contribution-grid-snake.svg" />
-</picture>
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3B8C6E&height=120&section=footer"/>
