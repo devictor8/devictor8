@@ -1,37 +1,29 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3B8C6E&height=120&section=header"/>
 
-<div style="display: inline_block">
- <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40px" align="left">
- <h1 aling="center">Olá, eu sou Victor!</h1>
-</div>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=89D99D&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+Victor!)](https://git.io/typing-svg)
 <p>
-<ul>
-  <li>Estudante de Sistemas de informação na <a href="https://upe.br">Universidade de Pernambuco</a> (UPE).</li>
-  <li>18 anos</li>
-  <li>Em busca de conhecimento</li>
-</ul>
-
- 
-</p>
-
-<h1>Minhas Habilidades</h1>
-
- [![My Skills](https://skillicons.dev/icons?i=react,javascript,css,tailwind,html,python,c,vscode,git,vercel,vite&theme=dark)](https://skillicons.dev)
-
-##
 
 
-<h1>My Status</h1>
+
+
 <div align="center">
  
- <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devictor8&show_icons=true&count_private=true&hide_border=true&title_color=328da8&icon_color=328da8&text_color=dedede&bg_color=0d1117" alt="Victor github stats" /> 
- <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devictor8&layout=compact&hide_border=true&title_color=328da8&text_color=ededed&bg_color=0d1117" />
+ <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devictor8&show_icons=true&count_private=true&hide_border=true&title_color=3B8C6E&icon_color=328da8&text_color=dedede&bg_color=0d1117" alt="Victor github stats" /> 
+ <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devictor8&layout=compact&hide_border=true&title_color=3B8C6E&text_color=ededed&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devictor8&bg_color=0d1117&color=e0e0e0&line=0055ff&point=808080&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br>
+<div align="center">
+
+   [![My Skills](https://skillicons.dev/icons?i=javascript,py,c,java,react,html,css,tailwind,nodejs,express,prisma,postgres&perline=6&theme=dark)](https://skillicons.dev) 
+</div>
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/devictor8/devictor8/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/devictor8/devictor8/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://github.com/devictor8/devictor8/blob/output/github-contribution-grid-snake.svg" />
 </picture>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3B8C6E&height=120&section=footer"/>
