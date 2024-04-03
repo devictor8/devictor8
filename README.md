@@ -1,3 +1,4 @@
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3B8C6E&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=89D99D&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+Victor!)](https://git.io/typing-svg)
@@ -15,7 +16,7 @@
 <br>
 <div align="center">
 
-   [![My Skills](https://skillicons.dev/icons?i=javascript,py,c,java,react,html,css,tailwind,nodejs,express,prisma,postgres&perline=6&theme=dark)](https://skillicons.dev) 
+   [![My Skills](https://skillicons.dev/icons?i=javascript,py,c,java,react,html,css,tailwind,nodejs,fastify,prisma&perline=6&theme=dark)](https://skillicons.dev) 
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3B8C6E&height=120&section=footer"/>
