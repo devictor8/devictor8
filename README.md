@@ -22,7 +22,7 @@
  ## Back-end
  [![My Skills](https://skillicons.dev/icons?i=nodejs,js,ts,express,nest,java,spring,prisma)](https://skillicons.dev)
 
- ## ferramentas
+ ## Ferramentas
  [![My Skills](https://skillicons.dev/icons?i=vscode,idea,git,ubuntu,figma)](https://skillicons.dev)
 </div>
 
