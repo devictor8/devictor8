@@ -11,24 +11,6 @@
  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devictor8&layout=compact&hide_border=true&title_color=3B8C6E&text_color=ededed&bg_color=0d1117" />
 </div>
 
-
-<div align="center">
- 
- # Minha Stack
- 
- ## Front-end
- [![My Skills](https://skillicons.dev/icons?i=html,js,ts,react,vite,next,css,tailwind)](https://skillicons.dev)
-
- ## Back-end
- [![My Skills](https://skillicons.dev/icons?i=nodejs,js,ts,express,nest,java,spring,prisma)](https://skillicons.dev)
-
- ## Ferramentas
- [![My Skills](https://skillicons.dev/icons?i=vscode,idea,git,ubuntu,figma)](https://skillicons.dev)
-</div>
-
-
-
-
 <br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3B8C6E&height=120&section=footer"/>
